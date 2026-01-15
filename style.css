@@ -1,3 +1,18 @@
 .title{
     background-color: red;
 }
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
